@@ -102,7 +102,7 @@ github.com/google/go-cmp/cmp/internal/value
 github.com/google/uuid
 # github.com/googleapis/gax-go/v2 v2.0.5
 github.com/googleapis/gax-go/v2
-# github.com/gophercloud/gophercloud v0.10.0
+# github.com/gophercloud/gophercloud v0.8.0
 ## explicit
 github.com/gophercloud/gophercloud/testhelper
 # github.com/hashicorp/errwrap v1.0.0
